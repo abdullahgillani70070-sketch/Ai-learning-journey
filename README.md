@@ -1,2 +1,2 @@
-# Ai-larning-journey
-Mera AI seekhne ka journey. Yahan main Python, ML aur AI projects practice kar raha hoon.
+# Ai-learning-journey
+Documenting my AI learning journey. I use this space to practice Python, work on Machine Learning projects, and explore AI concepts.
